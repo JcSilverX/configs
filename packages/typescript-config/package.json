@@ -1,0 +1,25 @@
+{
+  "name": "@silx/typescript-config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "files": [
+    "dom/tsconfig.app.json",
+    "dom/tsconfig.library.json",
+    "dom/tsconfig.monorepo.json",
+    "no-dom/tsconfig.app.json",
+    "no-dom/tsconfig.library.json",
+    "no-dom/tsconfig.monorepo.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://silx.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silx/configs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silx/configs/issues"
+  }
+}

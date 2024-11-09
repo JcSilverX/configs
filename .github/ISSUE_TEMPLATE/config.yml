@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Get Help
+    url: https://github.com/silx/configs/discussions/new?category=q-a
+    about: "If you're unable to get something to work as expected, post a question in our discussion forums."
+
+  - name: Feature Request
+    url: https://github.com/silx/configs/discussions/new?category=ideas
+    about: "Suggest new features or improvements."
+
+  - name: Bug Report
+    url: https://github.com/silx/configs/issues/new?body=**What%20package%20within%20%60flt%2Fui%60%20are%20you%20using%3F**%0A%0AFor%20example%3A%20%60%40silx%2Ftypescript-config%60%0A%0A**What%20version%20of%20that%20package%20are%20you%20using%3F**%0A%0AFor%20example%3A%20v0.1.X%0A%0A**What%20environment%20are%20you%20using%3F**%20(Optional)%0A%0A-%20**Desktop%3A**%0A%0A%20%20%20%20-%20OS%3A%20[e.g.%2C%20Windows%2011%2C%20macOS%20Sonoma]%0A%20%20%20%20-%20Browser%3A%20[e.g.%2C%20Safari%2C%20Chrome%2C%20Firefox]%0A%20%20%20%20-%20Resolution%3A%20[e.g.%2C%201920%20x%201080]%0A%20%20%20%20-%20Version%3A%20[e.g.%2C%20132.0]%0A%0A-%20**Mobile%2FTablet%3A**%0A%20%20%20%20-%20Device%3A%20[e.g.%2C%20iPhone%2014%2C%20Samsung%20Galaxy%20S23%2B]%0A%20%20%20%20-%20OS%3A%20[e.g.%2C%20iOS%2017.0%2C%20Android%2014.0]%0A%20%20%20%20-%20Screen%20Size%3A%20[e.g.%2C%206.1%22%2C%206.6%22]%0A%20%20%20%20-%20Mobile%20Browser%3A%20[e.g.%2C%20Safari%2C%20Chrome]%0A%20%20%20%20-%20Version%3A%20[e.g.%2C%20132.0]%0A%0AIf%20you%20need%20to%20include%20more%20environment%20details%2C%20run%20the%20following%20command%20in%20your%20project%E2%80%99s%20root%20directory%3A%0A%0A```sh%0Anpx%20envinfo%20--system%20--binaries%0A```%0A%0A**Reproduction%20URL**%0A%0APlease%20provide%20a%20link%20to%20a%20public%20GitHub%20repository%20that%20includes%20a%20minimal%20reproduction%20of%20the%20bug.%20**Do%20not%20link%20to%20your%20actual%20project**%20%E2%80%93%20instead%2C%20create%20a%20fresh%20project%20that%20isolates%20the%20issue%2C%20containing%20only%20the%20code%20necessary%20to%20reproduce%20the%20bug.%0A%0A**Describe%20your%20issue**%0A%0ADescribe%20the%20problem%20you%27re%20seeing%2C%20any%20important%20steps%20to%20reproduce%20and%20what%20behavior%20you%20expect%20instead.%0A%0A**Additional%20Information**%0A%0AAdd%20any%20other%20information%20related%20to%20the%20bug%20here%2C%20screenshots%20if%20applicable.
+    about: "If you've already asked for help with a problem and confirmed something is broken, create a bug report."
